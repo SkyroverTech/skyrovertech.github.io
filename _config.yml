@@ -18,11 +18,13 @@ people:
   pic: 1
   position: Team Leader
   social:
-    - title: twitter
+    - title: weibo
       url: #
-    - title: facebook
+    - title: linkedin
       url: #
-    - title: stack-overflow
+    - title: github
+      url: #
+    - title: google
       url: #
 
 - name: Larry Parker
