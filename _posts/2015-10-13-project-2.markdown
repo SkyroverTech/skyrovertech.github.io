@@ -1,0 +1,16 @@
+---
+title: ALLIN
+category: ALLIN Category
+author: Philip
+pub-date: 2015-10-13
+
+layout: default
+modal-id: 1
+
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+
+description: Goals determine what you will be...
+---
+

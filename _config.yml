@@ -19,24 +19,24 @@ people:
   position: Team Leader
   social:
     - title: weibo
-      url: #
+      url: http://weibo.com/lichao449217425
     - title: linkedin
-      url: #
+      url: http://www.linkedin.com/profile/view?id=299803353
     - title: github
-      url: #
+      url: https://github.com/CCharlieLi
     - title: google
       url: #
 
-- name: Larry Parker
+- name: philip knight
   pic: 2
   position: Lead Marketer
   social:
-    - title: twitter
-      url: #
+    - title: weibo
+      url: http://www.weibo.com/1831279011/profile?rightmod=1&wvr=6&mod=personinfo
     - title: facebook
-      url: #
+      url: www.facebook.com/profile.php?id=100010051353421
     - title: linkedin
-      url: #
+      url: http://www.linkedin.com/profile/view?id=AAIAABjycjABidEn7i2T0yGclahtyjMlfqGGXaA&trk=nav_responsive_tab_profile_pic
 
 - name: Diana Petersen
   pic: 3

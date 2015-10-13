@@ -1,0 +1,15 @@
+---
+title: Dreams
+category: Demo Category
+author: Charlie
+pub-date: 2015-10-13
+
+layout: default
+modal-id: 1
+
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+
+description: This is a demo post. Try to record team's event in 140 words like a slice of weibo. NOTE that you only need to modify 'title' 'category' 'author' 'date', put two images(big one for post, small one for page) and write 'alt' text to relace image if img is not available, set modal-id in order, and add description finally.
+---
