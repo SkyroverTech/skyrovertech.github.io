@@ -24,11 +24,9 @@ people:
       url: http://www.linkedin.com/profile/view?id=299803353
     - title: github
       url: https://github.com/CCharlieLi
-<<<<<<< HEAD
+
     - title: google
       url: #
-=======
->>>>>>> 10a706e3dca17fad27d1462ae9a0d735e000a06f
 
 - name: philip knight
   pic: 2
