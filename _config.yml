@@ -19,13 +19,11 @@ people:
   position: Team Leader
   social:
     - title: weibo
-      url: #
+      url: http://weibo.com/lichao449217425
     - title: linkedin
-      url: #
+      url: http://www.linkedin.com/profile/view?id=299803353
     - title: github
-      url: #
-    - title: google
-      url: #
+      url: https://github.com/CCharlieLi
 
 - name: Larry Parker
   pic: 2
