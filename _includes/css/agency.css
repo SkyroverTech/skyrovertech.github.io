@@ -444,6 +444,9 @@ section h3.section-subheading {
     }
 }
 
+#about {
+    background-image: url(../img/header-bg.jpg);
+}
 
 .timeline {
     position: relative;
@@ -644,8 +647,13 @@ section h3.section-subheading {
         padding: 0 100px 20px 20px;
     }
 }
+
+#team {
+    background-image: url(../img/header-bg.jpg);
+}
+
 .team {
-     background-color: #222;
+    background-color: #222;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
